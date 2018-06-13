@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "root";
+$password = "";
 $db_database = "iSell-Project";
 // create connection
 $conn = mysqli_connect($servername,$username,$password,$db_database);
